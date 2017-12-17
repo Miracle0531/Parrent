@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ec378bb9-1966-4757-973d-89fc039fc634" name="Default" comment="" />
+    <list default="true" id="b690133b-7c1a-4e4f-a1ce-2bdecf603203" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,88 +12,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Count.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/itheima/demo02/Count.java">
+      <file leaf-file-name="Cook.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/itheima/demo02/Cook.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="10" column="24" lean-forward="false" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+            <state relative-caret-position="216">
+              <caret line="12" column="22" lean-forward="false" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AddCount.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/itheima/demo02/impl/AddCount.java">
+      <file leaf-file-name="CookTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/itheima/demo02/test/CookTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-              <folding>
-                <element signature="e#216#217#0" expanded="true" />
-                <element signature="e#261#262#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SubCount.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/itheima/demo02/impl/SubCount.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="14" column="35" lean-forward="false" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
-              <folding>
-                <element signature="e#216#217#0" expanded="true" />
-                <element signature="e#261#262#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MulCount.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/itheima/demo02/impl/MulCount.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-              <folding>
-                <element signature="e#216#217#0" expanded="true" />
-                <element signature="e#261#262#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DivCount.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/itheima/demo02/impl/DivCount.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="14" column="35" lean-forward="false" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
-              <folding>
-                <element signature="e#216#217#0" expanded="true" />
-                <element signature="e#261#262#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Context.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/itheima/demo02/Context.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="239">
-              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-              <folding>
-                <element signature="e#179#180#0" expanded="true" />
-                <element signature="e#213#214#0" expanded="true" />
-                <element signature="e#241#242#0" expanded="true" />
-                <element signature="e#275#276#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CountTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/itheima/demo02/test/CountTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-234">
-              <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+            <state relative-caret-position="41">
+              <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -119,19 +52,14 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/itheima/demo01/Strategy.java" />
-        <option value="$PROJECT_DIR$/src/com/itheima/demo01/impl/FistImpl.java" />
-        <option value="$PROJECT_DIR$/src/com/itheima/demo01/impl/SecondImpl.java" />
-        <option value="$PROJECT_DIR$/src/com/itheima/demo01/impl/ThirdImpl.java" />
-        <option value="$PROJECT_DIR$/src/com/itheima/demo01/Context.java" />
-        <option value="$PROJECT_DIR$/src/com/itheima/demo01/test/StrategyTest.java" />
-        <option value="$PROJECT_DIR$/src/com/itheima/demo02/Count.java" />
-        <option value="$PROJECT_DIR$/src/com/itheima/demo02/impl/AddCount.java" />
-        <option value="$PROJECT_DIR$/src/com/itheima/demo02/impl/SubCount.java" />
-        <option value="$PROJECT_DIR$/src/com/itheima/demo02/impl/MulCount.java" />
-        <option value="$PROJECT_DIR$/src/com/itheima/demo02/impl/DivCount.java" />
-        <option value="$PROJECT_DIR$/src/com/itheima/demo02/Context.java" />
-        <option value="$PROJECT_DIR$/src/com/itheima/demo02/test/CountTest.java" />
+        <option value="$PROJECT_DIR$/src/com/itheima/demo01/Man.java" />
+        <option value="$PROJECT_DIR$/src/com/itheima/demo01/impl/Wusong.java" />
+        <option value="$PROJECT_DIR$/src/com/itheima/demo01/impl/Songjiang.java" />
+        <option value="$PROJECT_DIR$/src/com/itheima/demo01/test/ManTest.java" />
+        <option value="$PROJECT_DIR$/src/com/itheima/demo02/Cook.java" />
+        <option value="$PROJECT_DIR$/src/com/itheima/demo02/impl/DadCook.java" />
+        <option value="$PROJECT_DIR$/src/com/itheima/demo02/impl/MomCook.java" />
+        <option value="$PROJECT_DIR$/src/com/itheima/demo02/test/CookTest.java" />
       </list>
     </option>
   </component>
@@ -170,21 +98,70 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Strategy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Strategy" type="462c0819:PsiDirectoryNode" />
+              <item name="Proxy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Proxy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Proxy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Proxy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Proxy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Proxy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="itheima" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Proxy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Proxy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="itheima" type="462c0819:PsiDirectoryNode" />
+              <item name="demo01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Proxy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Proxy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="itheima" type="462c0819:PsiDirectoryNode" />
+              <item name="demo01" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Proxy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Proxy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="itheima" type="462c0819:PsiDirectoryNode" />
+              <item name="demo02" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Proxy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Proxy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="itheima" type="462c0819:PsiDirectoryNode" />
+              <item name="demo02" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Proxy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Proxy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="itheima" type="462c0819:PsiDirectoryNode" />
+              <item name="demo02" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
-      <pane id="Scratches" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -204,7 +181,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CountTest">
+  <component name="RunManager" selected="Application.CookTest">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -212,14 +189,14 @@
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
     </configuration>
-    <configuration name="CountTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="CookTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.itheima.demo02.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.itheima.demo02.test.CountTest" />
+      <option name="MAIN_CLASS_NAME" value="com.itheima.demo02.test.CookTest" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -228,17 +205,17 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Strategy" />
+      <module name="Proxy" />
       <envs />
     </configuration>
-    <configuration name="StrategyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="ManTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.itheima.demo01.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.itheima.demo01.test.StrategyTest" />
+      <option name="MAIN_CLASS_NAME" value="com.itheima.demo01.test.ManTest" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -247,7 +224,7 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Strategy" />
+      <module name="Proxy" />
       <envs />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -325,13 +302,13 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="2">
-      <item index="0" class="java.lang.String" itemvalue="Application.StrategyTest" />
-      <item index="1" class="java.lang.String" itemvalue="Application.CountTest" />
+      <item index="0" class="java.lang.String" itemvalue="Application.ManTest" />
+      <item index="1" class="java.lang.String" itemvalue="Application.CookTest" />
     </list>
     <recent_temporary>
       <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Application.CountTest" />
-        <item index="1" class="java.lang.String" itemvalue="Application.StrategyTest" />
+        <item index="0" class="java.lang.String" itemvalue="Application.CookTest" />
+        <item index="1" class="java.lang.String" itemvalue="Application.ManTest" />
       </list>
     </recent_temporary>
   </component>
@@ -343,17 +320,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ec378bb9-1966-4757-973d-89fc039fc634" name="Default" comment="" />
-      <created>1513511602934</created>
+      <changelist id="b690133b-7c1a-4e4f-a1ce-2bdecf603203" name="Default" comment="" />
+      <created>1513515258336</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1513511602934</updated>
-      <workItem from="1513511607077" duration="2988000" />
+      <updated>1513515258336</updated>
+      <workItem from="1513515261916" duration="1430000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2988000" />
+    <option name="totallyTimeSpent" value="1430000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="753" extended-state="6" />
@@ -367,8 +344,8 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998326" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -377,8 +354,8 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -399,133 +376,96 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/itheima/demo01/Strategy.java">
+    <entry file="file://$PROJECT_DIR$/src/com/itheima/demo01/Man.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        <state relative-caret-position="216">
+          <caret line="12" column="23" lean-forward="false" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/itheima/demo01/impl/FistImpl.java">
+    <entry file="file://$PROJECT_DIR$/src/com/itheima/demo01/impl/Wusong.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        <state relative-caret-position="306">
+          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
           <folding>
-            <element signature="e#228#229#0" expanded="false" />
-            <element signature="e#274#275#0" expanded="false" />
+            <element signature="e#211#212#0" expanded="true" />
+            <element signature="e#256#257#0" expanded="true" />
+            <element signature="e#296#297#0" expanded="true" />
+            <element signature="e#341#342#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/itheima/demo01/test/StrategyTest.java">
+    <entry file="file://$PROJECT_DIR$/src/com/itheima/demo01/impl/Songjiang.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="27" column="41" lean-forward="false" selection-start-line="27" selection-start-column="41" selection-end-line="27" selection-end-column="41" />
+        <state relative-caret-position="454">
+          <caret line="29" column="24" lean-forward="false" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
           <folding>
-            <element signature="imports" expanded="false" />
+            <element signature="e#220#221#0" expanded="true" />
+            <element signature="e#259#260#0" expanded="true" />
+            <element signature="e#292#293#0" expanded="true" />
+            <element signature="e#322#323#0" expanded="true" />
+            <element signature="e#363#364#0" expanded="true" />
+            <element signature="e#395#396#0" expanded="true" />
+            <element signature="e#435#436#0" expanded="true" />
+            <element signature="e#466#467#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/itheima/demo02/Context.java">
+    <entry file="file://$PROJECT_DIR$/src/com/itheima/demo02/impl/DadCook.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        <state relative-caret-position="311">
+          <caret line="19" column="35" lean-forward="false" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
           <folding>
-            <element signature="e#179#180#0" expanded="true" />
-            <element signature="e#213#214#0" expanded="true" />
-            <element signature="e#241#242#0" expanded="true" />
-            <element signature="e#275#276#0" expanded="true" />
+            <element signature="e#214#215#0" expanded="true" />
+            <element signature="e#259#260#0" expanded="true" />
+            <element signature="e#298#299#0" expanded="true" />
+            <element signature="e#343#344#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/itheima/demo02/impl/AddCount.java">
+    <entry file="file://$PROJECT_DIR$/src/com/itheima/demo02/impl/MomCook.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        <state relative-caret-position="311">
+          <caret line="29" column="24" lean-forward="false" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
           <folding>
-            <element signature="e#216#217#0" expanded="true" />
+            <element signature="e#220#221#0" expanded="true" />
             <element signature="e#261#262#0" expanded="true" />
+            <element signature="e#294#295#0" expanded="true" />
+            <element signature="e#326#327#0" expanded="true" />
+            <element signature="e#368#369#0" expanded="true" />
+            <element signature="e#402#403#0" expanded="true" />
+            <element signature="e#441#442#0" expanded="true" />
+            <element signature="e#472#473#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/itheima/demo02/impl/SubCount.java">
+    <entry file="file://$PROJECT_DIR$/src/com/itheima/demo01/test/ManTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="35" lean-forward="false" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+        <state relative-caret-position="149">
+          <caret line="19" column="25" lean-forward="false" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
           <folding>
-            <element signature="e#216#217#0" expanded="true" />
-            <element signature="e#261#262#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/itheima/demo02/impl/MulCount.java">
+    <entry file="file://$PROJECT_DIR$/src/com/itheima/demo02/Cook.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-          <folding>
-            <element signature="e#216#217#0" expanded="true" />
-            <element signature="e#261#262#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/itheima/demo02/impl/DivCount.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="35" lean-forward="false" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
-          <folding>
-            <element signature="e#216#217#0" expanded="true" />
-            <element signature="e#261#262#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/itheima/demo01/impl/SecondImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        <state relative-caret-position="216">
+          <caret line="12" column="22" lean-forward="false" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/itheima/demo01/impl/ThirdImpl.java">
+    <entry file="file://$PROJECT_DIR$/src/com/itheima/demo02/test/CookTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/itheima/demo01/Context.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="16" column="27" lean-forward="false" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
-          <folding>
-            <element signature="e#193#194#0" expanded="false" />
-            <element signature="e#233#234#0" expanded="false" />
-            <element signature="e#265#266#0" expanded="false" />
-            <element signature="e#304#305#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/itheima/demo02/Count.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="24" lean-forward="false" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/itheima/demo02/test/CountTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-234">
-          <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+        <state relative-caret-position="41">
+          <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
