@@ -1,0 +1,105 @@
+
+简单工厂模式
+1:创建人种接口
+    public interface Human(){
+        public void eat();
+        public void talk();
+    }
+
+2:创建人种接口的实现类
+    public class YellowHuman implements Human(){
+        @Override
+        public void eat() {}
+        @Override
+        public void talk() {}
+    }
+
+3:创建人种生产的工厂类
+    public class HumanFactory(){
+        public static Human createHuman(Class clazz) {
+            // 定义一个人种;使用反射机制生产人种实例
+            Human human = (Human) Class.forName(clazz.getName()).newInstance();
+        }
+    }
+
+4:完成生产测试...
+
+===============================================================================
+
+    public class YellowHuman(){
+         public void eat(){}
+         public void talk(){}
+    }
+
+    public class test(){
+        public void test(){
+            YellowHuman yellowHuman = new YellowHuman();
+            yellowHuman.eat();
+            yellowHuman.talk();
+        }
+    }
+
+===============================================================================
+
+抽象工厂模式
+1:创建人种接口
+    public interface Human(){
+        public void eat();
+        public void talk();
+        public void sex();
+    }
+
+2:创建抽象类人种实现类实现接口中的部分功能
+    public abstract class YellowHuman implements Human(){
+        @Override
+        public void eat(){}
+        @Override
+        public void talk(){}
+    }
+
+3:创建人种实现类继承抽象人种类完成人种接口中的剩余部分
+    public class MaleYellowHuman extends YellowHumanp(){
+        @Override
+        public void sex(){}
+    }
+    public class FemaleYellowHuman extends YellowHumanp(){
+        @Override
+        public void sex(){}
+    }
+
+4:创建人种的工厂接口
+    public interface HumanFactory(){
+        public Human createYellowHuman();
+        public Human createBlackHuman();
+        public Human createWhiteHuman();
+    }
+
+5:创建特殊人种的工厂实现类实现工厂接口
+    pulic class MaleHumanFactory imlementes HumanFactory(){
+        @Override
+        public Human createYellowHuman() {
+            return new MaleYellowHuman();
+        }
+    }
+    pulic class FemaleHumanFactory imlementes HumanFactory(){
+        @Override
+        public Human createYellowHuman() {
+            return new FemaleYellowHuman();
+        }
+    }
+
+===============================================================================
+
+    public class HumanFactory(){
+        public Human createMaleYellowHuman(){
+            return new MaleYellowHuman();
+        }
+
+        public Human createFemaleYellowHuman() {
+            return new FemaleYellowHuman();
+        }
+    }
+
+===============================================================================
+
+6:完成生产测试...
